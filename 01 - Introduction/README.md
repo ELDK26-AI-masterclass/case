@@ -29,16 +29,3 @@ cd threadly-app
 aspire run
 // open browser https://localhost:7601/
 ```
-
-## Make change from inside IDE
-
-Open the solution in your preferred IDE.
-Ensure you have access to AI tools from within the IDE.
-Make some changes to the solution using AI-based intellisense.
-
-## Make change from inside AI tool 
-
-Open the solution in your preferred AI tool (GitHub Copilot, ChatGPT Codex, Claude Code, etc.).
-Make change to the solution using chat interface.
-Stay on local machine for now.
-Adjust which model to use (GPT-5.3-Codex, Claude Opus 4.6, etc.)
