@@ -5,7 +5,7 @@ Supporting links and references for Part 1.
 ## Documentation
 - GitHub Spark: https://github.com/features/spark
 - Cursor: https://www.cursor.com/
-- Figma: https://www.figma.com/
+- Figma Make: https://www.figma.com/
 - Prompting guide (OpenAI): https://platform.openai.com/docs/guides/prompt-engineering
 
 ## Examples
