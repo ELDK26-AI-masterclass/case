@@ -38,19 +38,12 @@ Use the **Case Description** above as your product brief, then write a prompt wi
 
 Keep it concise and specific.
 
-### Step 3 – Add at least one refinement prompt
-
-- Submit at least one follow-up refinement prompt, for example:
-	- Improve spacing, typography, and visual hierarchy.
-	- Add a cart item counter in the top navigation.
-	- Improve mobile responsiveness for product cards.
-
-### Step 4 – Download/export the generated project
+### Step 3 – Download/export the generated project
 
 - Use the platform’s export/download option.
 - Save the project locally and open it in your editor.
 
-### Step 5 – Run the project locally
+### Step 4 – Run the project locally
 
 Use a typical Node/Vite-style workflow:
 
