@@ -9,6 +9,8 @@
 - [Claude](https://claude.ai/)
 - [ChatGPT Codex](https://chatgpt.com/codex)
 - [Lovable](https://lovable.dev/)
+- [GitHub Spark](https://github.com/spark/)
+- [Replit](https://replit.com/)
 - [OpenCode](https://opencode.ai/)
 - [OpenSpec](https://openspec.dev/)
 - [Microsoft Foundry](https://ai.azure.com/)

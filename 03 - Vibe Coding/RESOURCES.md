@@ -1,12 +1,13 @@
 # Resources
 
-Supporting links and references for Part 1.
+## Threadly
+- [Masterclass GitHub repos](https://github.com/ELDK26-AI-masterclass)
+- [Case step 3](https://github.com/ELDK26-AI-masterclass/threadly/tree/step03)
 
-## Documentation
-- Add official docs links here.
-
-## Examples
-- Add sample repositories, snippets, or videos.
-
-## Troubleshooting
-- Add common issues and fixes.
+## Vibe coding tools
+- [GitHub Copilot](https://github.com/copilot)
+- [Claude](https://claude.ai/)
+- [ChatGPT Codex](https://chatgpt.com/codex)
+- [Lovable](https://lovable.dev/)
+- [GitHub Spark](https://github.com/spark/)
+- [Replit](https://replit.com/)
