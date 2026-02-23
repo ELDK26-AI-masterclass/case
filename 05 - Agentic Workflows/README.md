@@ -1,5 +1,16 @@
 # Agentic Workflows
 
 In this step, you will:
-- Use AI tools to update the code from within your IDE.
-- Use AI tools to update the code from AI tools.
+- xxxx.
+
+## Open the online shop code
+- Open the solution in your preferred AI tool.
+
+## xxxx
+- xxxx
+
+## xxxx
+- xxxx
+  
+## xxxx
+- xxxx

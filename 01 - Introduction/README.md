@@ -7,24 +7,24 @@ In this step, you will:
 
 make sure to start docker desktop
 
-```csharp
+```bash
 // Open the code folder
 cd code
 ```
 
-```csharp
+```bash
 // Make sure that all npm modules are installed
 cd code/src/frontend
 npm install
 ```
 
-```csharp
+```bash
 // Run the web application alone
 cd code/src/frontend
 npm run dev
 ```
 
-```csharp
+```bash
 // Run the .NET Aspire solution
 cd code
 aspire run
