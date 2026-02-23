@@ -1,5 +1,10 @@
 # AI Tools and Models
 
+```csharp
+// Open the code folder
+cd code
+```
+
 ## Make change from inside IDE
 
 - Open the solution in your preferred IDE.

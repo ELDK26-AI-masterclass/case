@@ -5,7 +5,7 @@
 make sure to start docker desktop
 
 ```csharp
-// Open the src folder
+// Open the code folder
 cd code
 ```
 
