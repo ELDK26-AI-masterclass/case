@@ -2,7 +2,7 @@
 
 ## Threadly
 - [Masterclass GitHub repos](https://github.com/ELDK26-AI-masterclass)
-- [Case step 3](https://github.com/ELDK26-AI-masterclass/threadly/tree/step03)
+- [Case step 3](https://github.com/ELDK26-AI-masterclass/case/tree/main/03%20-%20Vibe%20Coding)
 
 ## Vibe coding tools
 - [GitHub Copilot](https://github.com/copilot)

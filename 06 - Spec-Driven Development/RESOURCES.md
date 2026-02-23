@@ -2,7 +2,7 @@
 
 ## Threadly
 - [Masterclass GitHub repos](https://github.com/ELDK26-AI-masterclass)
-- [Case step 6](https://github.com/ELDK26-AI-masterclass/threadly/tree/step06)
+- [Case step 6](https://github.com/ELDK26-AI-masterclass/case/tree/main/06%20-%20Spec-Driven%20Development)
 
 ## Tools
 - [OpenSpec](https://openspec.dev/)
