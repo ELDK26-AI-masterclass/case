@@ -1,12 +1,14 @@
 # Resources
 
-Supporting links and references for Part 1.
+## Threadly
+- [Masterclass GitHub repos](https://github.com/ELDK26-AI-masterclass)
+- [Case step 1](https://github.com/ELDK26-AI-masterclass/threadly/tree/step01)
 
-## Documentation
-- Add official docs links here.
-
-## Examples
-- Add sample repositories, snippets, or videos.
-
-## Troubleshooting
-- Add common issues and fixes.
+## Tools
+- [GitHub Copilot](https://github.com/copilot)
+- [Claude](https://claude.ai/)
+- [ChatGPT Codex](https://chatgpt.com/codex)
+- [Lovable](https://lovable.dev/)
+- [OpenCode](https://opencode.ai/)
+- [OpenSpec](https://openspec.dev/)
+- [Microsoft Foundry](https://ai.azure.com/)

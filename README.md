@@ -29,7 +29,7 @@ You can work in any reasonable stack (web app + simple backend), but AI is treat
   - Python 3.10+
 - Access to an LLM via e.g., Microsoft Foundry, OpenAI, Claude, etc.
 
-## Links
+## Resources
 
 - GitHub repo: [Masterclass](https://github.com/ELDK26-AI-masterclass)
 - Article: [AI-Native Development](https://danielmeppiel.github.io/awesome-ai-native/)
