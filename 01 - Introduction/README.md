@@ -1,5 +1,8 @@
 # Introduction
 
+In this step, you will:
+- Make sure you have get the solution to run locally.
+
 ## Setting up the solution
 
 make sure to start docker desktop

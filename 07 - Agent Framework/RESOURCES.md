@@ -1,12 +1,5 @@
 # Resources
 
-Supporting links and references for Part 1.
-
-## Documentation
-- Add official docs links here.
-
-## Examples
-- Add sample repositories, snippets, or videos.
-
-## Troubleshooting
-- Add common issues and fixes.
+## Threadly
+- [Masterclass GitHub repos](https://github.com/ELDK26-AI-masterclass)
+- [Case step 7](https://github.com/ELDK26-AI-masterclass/threadly/tree/step07)
