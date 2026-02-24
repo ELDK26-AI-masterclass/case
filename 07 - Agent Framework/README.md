@@ -21,7 +21,7 @@ You'll need a Microsoft Foundry resource with a deployed model. Follow the [Quic
 
 ### Python Dependencies
 
-Install the required packages from the repository root:
+Install the required packages from the requirements file in this folder. This command may be slightly different depending on your project root location. You can just ask GitHub Copilot to do it for you. It will look something like this:
 
 ```bash
 pip install -r requirements.txt
@@ -37,7 +37,7 @@ See [Role-based access control for Azure OpenAI](https://learn.microsoft.com/en-
 
 ### Environment Configuration
 
-1. Copy `.env.example` to `.env` in the repository root
+1. Copy `.env.example` to `.env` in your project root
 2. Update the values with your Microsoft Foundry endpoint and deployment name:
 
 ```dotenv
