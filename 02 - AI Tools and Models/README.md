@@ -11,12 +11,6 @@ In this step, you will:
 cd code
 ```
 
-## Make change from inside IDE
-
-- Open the solution in your preferred IDE.
-- Ensure you have access to AI tools from within the IDE.
-- Make some changes to the solution using AI-based intellisense.
-
 ## Make change from inside AI tool 
 
 - Open the solution in your preferred AI tool (GitHub Copilot, ChatGPT Codex, Claude Code, etc.).
