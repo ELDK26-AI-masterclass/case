@@ -11,8 +11,8 @@ In this step, you will:
 ## Create a custom agent
 - xxxx
 
-## xxxx
+## Create instruction files
 - xxxx
   
-## xxxx
+## Create prompt files
 - xxxx
