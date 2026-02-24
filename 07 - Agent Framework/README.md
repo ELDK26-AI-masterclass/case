@@ -1,4 +1,4 @@
-# Part 4: Building Agents with Microsoft Agent Framework
+# 07 - Building Agents with Microsoft Agent Framework
 
 Microsoft Agent Framework is a powerful SDK for building AI agents that can connect to a wide variety of AI providers, including Azure OpenAI, OpenAI, GitHub Copilot, Anthropic Claude, Ollama, and more. In this workshop, we'll use the **OpenAI Chat Completion API** hosted in **Microsoft Foundry** to power our agents.
 
